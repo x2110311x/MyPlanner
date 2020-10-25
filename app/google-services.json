@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "785848324411",
+    "firebase_url": "https://khe2020.firebaseio.com",
+    "project_id": "khe2020",
+    "storage_bucket": "khe2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785848324411:android:dfbeb95b5e82646001e71e",
+        "android_client_info": {
+          "package_name": "com.asweeney.myplanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785848324411-ccemrfmt6qv9l7ciks6fb72omssiajfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asweeney.myplanner",
+            "certificate_hash": "0251f12ded6284739faf3397459dc022162245f6"
+          }
+        },
+        {
+          "client_id": "785848324411-edt2bq1ri9gc0divc3evidusfubemn8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcZVAix9Gpr8ZQthvDq0Sf25ghSK6iVcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785848324411-edt2bq1ri9gc0divc3evidusfubemn8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

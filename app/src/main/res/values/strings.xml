@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyPlanner</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--- Fragment Labels -->
+    <string name="menu_home">Home</string>
+    <string name="menu_bucket">Bucket View</string>
+    <string name="menu_calendar">Calendar View</string>
+    <string name="menu_list">Task List</string>
+    <string name="menu_shared_list">Shared Tasks</string>
+    <string name="menu_settings">Settings</string>
+    <string name="sign_out">Sign Out</string>
+
+    <!--- Content Descriptions -->
+    <string name="newtask_btn">Add New Task</string>
+
+    <!--- Text View Titles -->
+    <string name="txt_tasktitle">Task Title</string>
+    <string name="txt_startdate">Start Date</string>
+    <string name="txt_duedate">Due Date</string>
+    <string name="txt_desc">Task Description</string>
+
+    <!--- Text Hints -->
+    <string name="txt_tasktitlehint">Enter Task Title</string>
+    <string name="txt_startdatehint">Pick a start date</string>
+    <string name="txt_duedatehint">Pick an end date</string>
+    <string name="txt_deschint">Enter a description for your task</string>
+
+    <string name="hello_blank_fragment">Feature Coming Soon </string>
+    <string name="title_activity_sign_in">Sign In</string>
+
+</resources>

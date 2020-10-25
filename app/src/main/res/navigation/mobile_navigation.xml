@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_bucket"
+        android:name="com.asweeney.myplanner.BucketviewFragment"
+        android:label="@string/menu_bucket"
+        tools:layout="@layout/fragment_bucketview" />
+    <fragment
+        android:id="@+id/nav_calendar"
+        android:name="com.asweeney.myplanner.CalendarFragment"
+        android:label="@string/menu_calendar"
+        tools:layout="@layout/fragment_calendar" />
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.asweeney.myplanner.SettingsFragment"
+        android:label="@string/menu_settings" />
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.asweeney.myplanner.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/nav_list"
+        android:name="com.asweeney.myplanner.TaskListFragment"
+        android:label="@string/menu_list"
+        tools:layout="@layout/fragment_task_list" />
+
+</navigation>
